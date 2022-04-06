@@ -1,0 +1,1 @@
+tries to fit a line to a data set by calculating the distance of points, squaring it and rotating the line by the sum of the squares

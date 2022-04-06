@@ -1,0 +1,1 @@
+map which gives a propability of action for a given state 
