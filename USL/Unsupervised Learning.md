@@ -5,3 +5,5 @@
 
 ### usage:
 Anomaly detection
+YouTube, Netflix - video recommendation
+
