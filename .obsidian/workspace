@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "RL/Q-Learning.md",
+            "file": "USL/Unsupervised learning.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RL/Q-Learning.md",
+                "file": "USL/Unsupervised learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "6b152421694be629",
   "lastOpenFiles": [
+    "USL/Unsupervised learning.md",
+    "RL/Reinforcement learning.md",
     "RL/Q-Learning.md",
     "SL/Supervised learning.md",
     "RL/Brute Force.md",
     "SL/Linear regression.md",
     "SL/Decision trees.md",
     "RL/Value function.md",
-    "RL/Reinforcement Learning.md",
     "RL/Policy.md",
-    "USL/K-Clustering.md",
-    "USL/Unsupervised Learning.md"
+    "USL/K-Clustering.md"
   ]
 }
