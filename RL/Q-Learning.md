@@ -1,5 +1,5 @@
 has two steps: exploration and exploitation
-#### exploration
+#### Exploration
 the agent acts randomly, therefore discovers new states that would have not been found otherwise
 
 #### Exploitation
