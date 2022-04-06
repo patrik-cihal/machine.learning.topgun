@@ -1,1 +1,1 @@
-tries to find by best policy using technique that maintains a set of estimates of expected returns for some policies based on theory of Markov decision processes
+map from state to real number where value represents how good is to start including the future on that given state and executing some policy

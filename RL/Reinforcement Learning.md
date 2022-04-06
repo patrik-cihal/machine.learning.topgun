@@ -5,7 +5,7 @@ often uses dynamic programming
 
 ### algorithms:
 1. [[Brute force]]
-2. [[Value function]]
+2. [[Q-Learning]]
 
 ### applications:
 1. Self-driving cars
