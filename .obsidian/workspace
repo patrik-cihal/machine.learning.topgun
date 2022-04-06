@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "USL/Unsupervised Learning.md",
+            "file": "SL/Linear regression.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "USL/Unsupervised Learning.md",
+                "file": "SL/Linear regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,10 +88,10 @@
   },
   "active": "6b152421694be629",
   "lastOpenFiles": [
+    "SL/Linear regression.md",
     "USL/Unsupervised Learning.md",
     "USL/K-Clustering.md",
     "SL/Supervised Learning.md",
-    "SL/Linear regression.md",
     "SL/Decision trees.md",
     "RL/Value function.md",
     "RL/Reinforcement Learning.md",
